@@ -1,0 +1,11 @@
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (1, 'VBA I',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (2, 'VBA II',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (3, 'VBA III',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (4, 'Excel Básico',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (5, 'Excel Intermediário',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (6, 'Excel Avançado',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (7, 'Pacote Office Completo',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (8, 'Word',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (9, 'PowerPoint',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (10, 'Access',getDate(),'ALESS');
+insert into dbo.Cursos (id_curso, nome_curso, data_cadastro, login_cadastro) values (11, 'Word Avançado',getDate(),'ALESS');

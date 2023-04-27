@@ -1,0 +1,26 @@
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 12, 1100, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 47, 1100, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 30, 1100, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 65, 1100, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 76, 1100, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 27, 550, 0.50,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 2, 550, 0.50,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 80, 700, 0.36,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (6, 55, 1100, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 237, 125, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 350, 125, 0.00,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 426, 100, 0.20,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 194, 100, 0.20,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 436, 100, 0.20,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 155, 100, 0.20,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 159, 100, 0.20,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 397, 75, 0.40,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 151, 115, 0.08,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 153, 115, 0.08,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 282, 75, 0.40,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 232, 70, 0.44,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 223, 70, 0.44,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 223, 60, 0.52,getDate(),'ALESS');
+INSERT INTO dbo.AlunosxTurmas (ID_TURMA, ID_ALUNO, VALOR, VALOR_DESCONTO, data_cadastro, login_cadastro) VALUES (10, 229, 125, 0.00,getDate(),'ALESS');
+
+Select * from dbo.AlunosxTurmas;

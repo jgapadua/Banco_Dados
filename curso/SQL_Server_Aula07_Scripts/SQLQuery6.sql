@@ -1,0 +1,14 @@
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (1,1,'17/11/2019','27/12/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (2,1,'01/01/2020','10/02/2020',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (3,1,'13/02/2020','24/03/2020',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (4,4,'02/03/2019','02/04/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (5,4,'02/07/2019','23/07/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (6,11,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (7,11,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (8,9,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (9,6,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (10,6,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (11,6,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (12,6,'02/09/2020','15/09/2020',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (13,6,'02/09/2019','15/09/2019',getDate(),'ALESS');
+INSERT INTO dbo.Turmas (id_turma, id_curso,data_inicio,data_termino, data_cadastro, login_cadastro)  VALUES (14,5,'02/09/2019','15/09/2019',getDate(),'ALESS');
